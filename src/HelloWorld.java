@@ -7,6 +7,10 @@ public class HelloWorld {
 // work 3
     // work 4 is done
     // name  update
+public static void main(String[] args) {
+    System.out.println("Hello world");
+
+}
 
 
 
